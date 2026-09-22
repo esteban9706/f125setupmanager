@@ -355,6 +355,14 @@
             color: #888;
         }
 
+        .no-details-message {
+            text-align: center;
+            padding: 15px;
+            color: #888;
+            font-size: 0.9em;
+            font-style: italic;
+        }
+
         .stats {
             background: #2a2a3e;
             padding: 15px;
@@ -820,7 +828,7 @@
                             ` : ''}
                         </div>
 
-                        ${setup.aerodynamics ? `<div class="setup-details"><div class="details-grid">${detailsHtml}</div>${setup.youtubeUrl ? `<div class="youtube-embed"><iframe src="${setup.youtubeUrl}" allowfullscreen></iframe></div>` : ''}</div>` : ''}
+                        ${setup.aerodynamics ? `<div class="setup-details"><div class="details-grid">${detailsHtml}</div>${setup.youtubeUrl ? `<div class="youtube-embed"><iframe src="${setup.youtubeUrl}" allowfullscreen></iframe></div>` : ''}</div>` : `<div class="setup-details"><p class="no-details-message">No detailed setup data available for this entry — only lap time and creator info were submitted.</p></div>`}
                     </div>
                 `;
             }).join('');
