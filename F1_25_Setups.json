@@ -1,0 +1,996 @@
+{
+  "metadata": {
+    "game": "F1 25",
+    "season": 2026,
+    "lastUpdated": "2026-09-22",
+    "totalSetups": 97,
+    "source": "f1laps.com community setups"
+  },
+  "setups": {
+    "Australia": [
+      {
+        "id": "australia_leoncon99_1",
+        "name": "Australia Setup - Dry (Q)",
+        "type": "qualifying",
+        "creator": "leoncon99",
+        "team": "Aston Martin",
+        "lapTime": "1:15.974",
+        "conditions": "dry",
+        "source": "f1laps.com",
+        "aerodynamics": {
+          "frontWing": 23,
+          "rearWing": 10
+        },
+        "transmission": {
+          "differentialOnThrottle": 100,
+          "differentialOffThrottle": 25
+        },
+        "suspension": {
+          "frontCamber": -3.50,
+          "rearCamber": -2.00,
+          "frontToe": 0.00,
+          "rearToe": 0.10,
+          "frontSuspension": 41,
+          "rearSuspension": 1,
+          "frontAntiRollBar": 8,
+          "rearAntiRollBar": 16,
+          "frontRideHeight": 20,
+          "rearRideHeight": 40
+        },
+        "brakes": {
+          "brakePressure": 100,
+          "frontBrakeBias": 52
+        },
+        "tires": {
+          "frontLeftPressure": 29.5,
+          "frontRightPressure": 29.5,
+          "rearLeftPressure": 20.5,
+          "rearRightPressure": 20.5
+        }
+      }
+    ],
+    "China": [
+      {
+        "id": "china_racer1_1",
+        "name": "China Setup - Dry (Q)",
+        "type": "qualifying",
+        "creator": "SpeedDemon22",
+        "team": "McLaren",
+        "lapTime": "1:32.174",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "china_patience14_2",
+        "name": "China Setup - Race (R)",
+        "type": "race",
+        "creator": "patience14",
+        "team": "Haas F1 Team",
+        "lapTime": "1:32.370",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "china_ago1097_3",
+        "name": "China Setup - Dry",
+        "type": "balanced",
+        "creator": "ago-1097",
+        "team": "Ferrari",
+        "lapTime": "1:32.408",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "china_skylxrd_4",
+        "name": "China Setup - Dry",
+        "type": "balanced",
+        "creator": "Skylxrd",
+        "team": "Red Bull Racing",
+        "lapTime": "1:32.419",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "china_racer5_5",
+        "name": "China Setup - Dry",
+        "type": "balanced",
+        "creator": "ApexHunter",
+        "team": "Aston Martin",
+        "lapTime": "1:32.709",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      }
+    ],
+    "Japan": [
+      {
+        "id": "japan_itzyliaab_1",
+        "name": "Japan Setup - Dry (Q)",
+        "type": "qualifying",
+        "creator": "itzyliaab",
+        "team": "Red Bull Racing",
+        "lapTime": "1:27.015",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "japan_woodbassniki_2",
+        "name": "Japan Setup - Dry (R)",
+        "type": "race",
+        "creator": "woodbassniki",
+        "team": "Williams",
+        "lapTime": "1:27.345",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "japan_skylxrd_3",
+        "name": "Japan Setup - Dry",
+        "type": "balanced",
+        "creator": "Skylxrd",
+        "team": "Red Bull Racing",
+        "lapTime": "1:27.470",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "japan_patience14_4",
+        "name": "Japan Setup - Dry",
+        "type": "balanced",
+        "creator": "patience14",
+        "team": "Haas F1 Team",
+        "lapTime": "1:27.690",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "japan_joshua_5",
+        "name": "Japan Setup - Dry",
+        "type": "balanced",
+        "creator": "Joshua Apaya",
+        "team": "Williams",
+        "lapTime": "1:27.755",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      }
+    ],
+    "Bahrain": [
+      {
+        "id": "bahrain_woodbassniki_1",
+        "name": "Bahrain Setup - Dry (Q)",
+        "type": "qualifying",
+        "creator": "woodbassniki",
+        "team": "Williams",
+        "lapTime": "1:27.881",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "bahrain_brazzouz_2",
+        "name": "Bahrain Setup - Dry (R)",
+        "type": "race",
+        "creator": "Brazzouz",
+        "team": "McLaren",
+        "lapTime": "1:27.964",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "bahrain_patience14_3",
+        "name": "Bahrain Setup - Dry",
+        "type": "balanced",
+        "creator": "patience14",
+        "team": "Haas F1 Team",
+        "lapTime": "1:28.167",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      }
+    ],
+    "Saudi Arabia": [],
+    "Miami": [
+      {
+        "id": "miami_joshua_1",
+        "name": "Miami Setup - Dry (Q)",
+        "type": "qualifying",
+        "creator": "Joshua Apaya",
+        "team": "Aston Martin",
+        "lapTime": "1:26.235",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "miami_glorius_2",
+        "name": "Miami Setup - Dry (R)",
+        "type": "race",
+        "creator": "Glorius",
+        "team": "Mercedes",
+        "lapTime": "1:26.270",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "miami_ethan24_3",
+        "name": "Miami Setup - Dry",
+        "type": "balanced",
+        "creator": "Ethan24",
+        "team": "Ferrari",
+        "lapTime": "1:26.602",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "miami_riku_4",
+        "name": "Miami Setup - Dry",
+        "type": "balanced",
+        "creator": "Riku",
+        "team": "F1 Custom Team",
+        "lapTime": "1:26.632",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "miami_mouotnshoot_5",
+        "name": "Miami Setup - Dry",
+        "type": "balanced",
+        "creator": "mouotnshoot",
+        "team": "Williams",
+        "lapTime": "1:26.720",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      }
+    ],
+    "Imola": [
+      {
+        "id": "imola_laurin_1",
+        "name": "Imola Setup - Dry (Q)",
+        "type": "qualifying",
+        "creator": "Laurin Senna",
+        "team": "Red Bull Racing",
+        "lapTime": "1:14.472",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "imola_ynic222_2",
+        "name": "Imola Setup - Dry (R)",
+        "type": "race",
+        "creator": "ynic222",
+        "team": "Racing Bulls",
+        "lapTime": "1:15.091",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "imola_goughzi_3",
+        "name": "Imola Setup - Dry",
+        "type": "balanced",
+        "creator": "Goughzi",
+        "team": "Haas F1 Team",
+        "lapTime": "1:15.291",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "imola_chrisedwin_4",
+        "name": "Imola Setup - Dry",
+        "type": "balanced",
+        "creator": "ChrisEdwin75",
+        "team": "McLaren",
+        "lapTime": "1:15.357",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "imola_zach10_5",
+        "name": "Imola Setup - Dry",
+        "type": "balanced",
+        "creator": "zach10",
+        "team": "McLaren",
+        "lapTime": "1:15.372",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      }
+    ],
+    "Monaco": [
+      {
+        "id": "monaco_woodbassniki_1",
+        "name": "Monaco Setup - Dry (Q)",
+        "type": "qualifying",
+        "creator": "woodbassniki",
+        "team": "Williams",
+        "lapTime": "1:10.031",
+        "conditions": "dry",
+        "source": "f1laps.com",
+        "aerodynamics": {
+          "frontWing": 50,
+          "rearWing": 50
+        },
+        "transmission": {
+          "differentialOnThrottle": 100,
+          "differentialOffThrottle": 15
+        },
+        "suspension": {
+          "frontCamber": -3.50,
+          "rearCamber": -2.00,
+          "frontToe": 0.00,
+          "rearToe": 0.10,
+          "frontSuspension": 41,
+          "rearSuspension": 22,
+          "frontAntiRollBar": 3,
+          "rearAntiRollBar": 21,
+          "frontRideHeight": 19,
+          "rearRideHeight": 49
+        },
+        "brakes": {
+          "brakePressure": 100,
+          "frontBrakeBias": 53
+        },
+        "tires": {
+          "frontLeftPressure": 22.5,
+          "frontRightPressure": 22.5,
+          "rearLeftPressure": 20.5,
+          "rearRightPressure": 20.5
+        }
+      },
+      {
+        "id": "monaco_roesslucas_2",
+        "name": "Monaco Setup - Dry (R)",
+        "type": "race",
+        "creator": "roesslucas",
+        "team": "McLaren",
+        "lapTime": "1:10.462",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "monaco_moltoaspro_3",
+        "name": "Monaco Setup - Dry",
+        "type": "balanced",
+        "creator": "Moltoaspro",
+        "team": "Ferrari",
+        "lapTime": "1:10.516",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      }
+    ],
+    "Spain": [
+      {
+        "id": "spain_woodbassniki_1",
+        "name": "Spain Setup - Dry (Q)",
+        "type": "qualifying",
+        "creator": "woodbassniki",
+        "team": "Williams",
+        "lapTime": "1:12.537",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "spain_mikey_2",
+        "name": "Spain Setup - Dry (R)",
+        "type": "race",
+        "creator": "MikeyDeBoi",
+        "team": "F1 Custom Team",
+        "lapTime": "1:12.557",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "spain_leoelias_3",
+        "name": "Spain Setup - Dry",
+        "type": "balanced",
+        "creator": "leoelias0610",
+        "team": "Mercedes",
+        "lapTime": "1:12.577",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "spain_riku_4",
+        "name": "Spain Setup - Dry",
+        "type": "balanced",
+        "creator": "Riku",
+        "team": "F1 Custom Team",
+        "lapTime": "1:12.598",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "spain_dondej_5",
+        "name": "Spain Setup - Dry",
+        "type": "balanced",
+        "creator": "Dondej212",
+        "team": "Ferrari",
+        "lapTime": "1:12.737",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      }
+    ],
+    "Canada": [
+      {
+        "id": "canada_mouotnshoot_1",
+        "name": "Canada Setup - Dry (Q)",
+        "type": "qualifying",
+        "creator": "mouotnshoot",
+        "team": "Ferrari",
+        "lapTime": "1:09.743",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "canada_stef_2",
+        "name": "Canada Setup - Dry (R)",
+        "type": "race",
+        "creator": "stefwolterspri",
+        "team": "Kick Sauber",
+        "lapTime": "1:10.045",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "canada_gobbigiorgio_3",
+        "name": "Canada Setup - Dry",
+        "type": "balanced",
+        "creator": "gobbigiorgio90",
+        "team": "F1 Generic",
+        "lapTime": "1:10.252",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "canada_gdunks_4",
+        "name": "Canada Setup - Dry",
+        "type": "balanced",
+        "creator": "gdunks",
+        "team": "McLaren",
+        "lapTime": "1:10.314",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "canada_igorbrtn_5",
+        "name": "Canada Setup - Dry",
+        "type": "balanced",
+        "creator": "igorbrtn09",
+        "team": "Aston Martin",
+        "lapTime": "1:10.337",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      }
+    ],
+    "Austria": [
+      {
+        "id": "austria_tbomb70_1",
+        "name": "Austria Setup - Dry (Q)",
+        "type": "qualifying",
+        "creator": "Tbomb70",
+        "team": "Mercedes",
+        "lapTime": "1:04.429",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "austria_justchillz_2",
+        "name": "Austria Setup - Dry (R)",
+        "type": "race",
+        "creator": "JustChillz",
+        "team": "McLaren",
+        "lapTime": "1:04.441",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "austria_phoenix_3",
+        "name": "Austria Setup - Dry",
+        "type": "balanced",
+        "creator": "Phoenix90_",
+        "team": "McLaren",
+        "lapTime": "1:04.447",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "austria_rattlehead_4",
+        "name": "Austria Setup - Dry",
+        "type": "balanced",
+        "creator": "Rattlehead",
+        "team": "F1 Custom Team",
+        "lapTime": "1:04.573",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "austria_glorius_5",
+        "name": "Austria Setup - Dry",
+        "type": "balanced",
+        "creator": "Glorius",
+        "team": "Ferrari",
+        "lapTime": "1:04.578",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      }
+    ],
+    "Silverstone": [
+      {
+        "id": "silverstone_stacey_1",
+        "name": "Silverstone Setup - Dry (Q)",
+        "type": "qualifying",
+        "creator": "Stacey",
+        "team": "McLaren",
+        "lapTime": "1:26.329",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "silverstone_woodbassniki_2",
+        "name": "Silverstone Setup - Dry (R)",
+        "type": "race",
+        "creator": "woodbassniki",
+        "team": "Williams",
+        "lapTime": "1:26.690",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "silverstone_marnyy_3",
+        "name": "Silverstone Setup - Dry",
+        "type": "balanced",
+        "creator": "marnyy96",
+        "team": "Mercedes",
+        "lapTime": "1:26.759",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      }
+    ],
+    "Belgium": [],
+    "Hungary": [
+      {
+        "id": "hungary_amrito_1",
+        "name": "Hungary Setup - Dry (Q)",
+        "type": "qualifying",
+        "creator": "AmritoBOGOSS",
+        "team": "Ferrari",
+        "lapTime": "1:15.877",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "hungary_glorius_2",
+        "name": "Hungary Setup - Dry (R)",
+        "type": "race",
+        "creator": "Glorius",
+        "team": "Ferrari",
+        "lapTime": "1:15.938",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "hungary_ox_3",
+        "name": "Hungary Setup - Dry",
+        "type": "balanced",
+        "creator": "Ox",
+        "team": "Red Bull Racing",
+        "lapTime": "1:16.090",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "hungary_riku_4",
+        "name": "Hungary Setup - Dry",
+        "type": "balanced",
+        "creator": "Riku",
+        "team": "F1 Custom Team",
+        "lapTime": "1:16.181",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "hungary_mururoa_5",
+        "name": "Hungary Setup - Dry",
+        "type": "balanced",
+        "creator": "mururoa27",
+        "team": "Ferrari",
+        "lapTime": "1:16.278",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      }
+    ],
+    "Netherlands": [
+      {
+        "id": "netherlands_matex_1",
+        "name": "Netherlands Setup - Dry (Q)",
+        "type": "qualifying",
+        "creator": "Matex",
+        "team": "F1 Custom Team",
+        "lapTime": "1:09.024",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "netherlands_gdunks_2",
+        "name": "Netherlands Setup - Dry (R)",
+        "type": "race",
+        "creator": "gdunks",
+        "team": "McLaren",
+        "lapTime": "1:09.500",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "netherlands_mururoa_3",
+        "name": "Netherlands Setup - Dry",
+        "type": "balanced",
+        "creator": "mururoa27",
+        "team": "Ferrari",
+        "lapTime": "1:09.540",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "netherlands_riku_4",
+        "name": "Netherlands Setup - Dry",
+        "type": "balanced",
+        "creator": "Riku",
+        "team": "F1 Custom Team",
+        "lapTime": "1:09.618",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "netherlands_shrektorious_5",
+        "name": "Netherlands Setup - Dry",
+        "type": "balanced",
+        "creator": "shrektorious",
+        "team": "Williams",
+        "lapTime": "1:09.657",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      }
+    ],
+    "Italy": [
+      {
+        "id": "italy_riku_1",
+        "name": "Italy Setup - Dry (Q)",
+        "type": "qualifying",
+        "creator": "Riku",
+        "team": "F1 Custom Team",
+        "lapTime": "1:18.759",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "italy_idantoi_2",
+        "name": "Italy Setup - Dry (R)",
+        "type": "race",
+        "creator": "Idantoi",
+        "team": "Williams",
+        "lapTime": "1:18.868",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "italy_ethan24_3",
+        "name": "Italy Setup - Dry",
+        "type": "balanced",
+        "creator": "Ethan24",
+        "team": "Ferrari",
+        "lapTime": "1:18.908",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      }
+    ],
+    "Azerbaijan": [
+      {
+        "id": "azerbaijan_nicopost_1",
+        "name": "Azerbaijan Setup - Dry (Q)",
+        "type": "qualifying",
+        "creator": "nicopost23",
+        "team": "Ferrari",
+        "lapTime": "1:39.208",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "azerbaijan_dondej_2",
+        "name": "Azerbaijan Setup - Dry (R)",
+        "type": "race",
+        "creator": "Dondej212",
+        "team": "F1 Custom Team",
+        "lapTime": "1:39.463",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "azerbaijan_leoelias_3",
+        "name": "Azerbaijan Setup - Dry",
+        "type": "balanced",
+        "creator": "leoelias0610",
+        "team": "Mercedes",
+        "lapTime": "1:39.735",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "azerbaijan_dmytro_4",
+        "name": "Azerbaijan Setup - Dry",
+        "type": "balanced",
+        "creator": "DmytroGrytsai",
+        "team": "Ferrari",
+        "lapTime": "1:39.981",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "azerbaijan_riku_5",
+        "name": "Azerbaijan Setup - Dry",
+        "type": "balanced",
+        "creator": "Riku",
+        "team": "F1 Custom Team",
+        "lapTime": "1:40.090",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      }
+    ],
+    "Singapore": [
+      {
+        "id": "singapore_matimk_1",
+        "name": "Singapore Setup - Dry (Q)",
+        "type": "qualifying",
+        "creator": "matimk",
+        "team": "Ferrari",
+        "lapTime": "1:28.621",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "singapore_riku_2",
+        "name": "Singapore Setup - Dry (R)",
+        "type": "race",
+        "creator": "Riku",
+        "team": "F1 Custom Team",
+        "lapTime": "1:29.196",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "singapore_ethan24_3",
+        "name": "Singapore Setup - Dry",
+        "type": "balanced",
+        "creator": "Ethan24",
+        "team": "Ferrari",
+        "lapTime": "1:29.242",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "singapore_lazr_4",
+        "name": "Singapore Setup - Dry",
+        "type": "balanced",
+        "creator": "lazr00",
+        "team": "Racing Bulls",
+        "lapTime": "1:29.276",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "singapore_gdunks_5",
+        "name": "Singapore Setup - Dry",
+        "type": "balanced",
+        "creator": "gdunks",
+        "team": "McLaren",
+        "lapTime": "1:29.605",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      }
+    ],
+    "Austin": [],
+    "Mexico": [
+      {
+        "id": "mexico_riku_1",
+        "name": "Mexico Setup - Dry (Q)",
+        "type": "qualifying",
+        "creator": "Riku",
+        "team": "F1 Custom Team",
+        "lapTime": "1:15.758",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "mexico_gdunks_2",
+        "name": "Mexico Setup - Dry (R)",
+        "type": "race",
+        "creator": "gdunks",
+        "team": "McLaren",
+        "lapTime": "1:15.802",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "mexico_ethan24_3",
+        "name": "Mexico Setup - Dry",
+        "type": "balanced",
+        "creator": "Ethan24",
+        "team": "Ferrari",
+        "lapTime": "1:15.834",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "mexico_idantoi_4",
+        "name": "Mexico Setup - Dry",
+        "type": "balanced",
+        "creator": "Idantoi",
+        "team": "McLaren",
+        "lapTime": "1:15.913",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "mexico_tbomb_5",
+        "name": "Mexico Setup - Dry",
+        "type": "balanced",
+        "creator": "Tbomb70",
+        "team": "Mercedes",
+        "lapTime": "1:16.013",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      }
+    ],
+    "Brazil": [
+      {
+        "id": "brazil_stacey_1",
+        "name": "Brazil Setup - Dry (Q)",
+        "type": "qualifying",
+        "creator": "stacey",
+        "team": "McLaren",
+        "lapTime": "1:07.961",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "brazil_leoelias_2",
+        "name": "Brazil Setup - Dry (R)",
+        "type": "race",
+        "creator": "leoelias0610",
+        "team": "Haas F1 Team",
+        "lapTime": "1:08.287",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "brazil_riku_3",
+        "name": "Brazil Setup - Dry",
+        "type": "balanced",
+        "creator": "Riku",
+        "team": "F1 Custom Team",
+        "lapTime": "1:08.308",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "brazil_shsnugget_4",
+        "name": "Brazil Setup - Dry",
+        "type": "balanced",
+        "creator": "shsnugget7",
+        "team": "Williams",
+        "lapTime": "1:08.328",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "brazil_robbbiee_5",
+        "name": "Brazil Setup - Dry",
+        "type": "balanced",
+        "creator": "robbbiee96",
+        "team": "Red Bull Racing",
+        "lapTime": "1:08.405",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      }
+    ],
+    "Las Vegas": [],
+    "Qatar": [
+      {
+        "id": "qatar_mitchell_1",
+        "name": "Qatar Setup - Dry (Q)",
+        "type": "qualifying",
+        "creator": "mitchlobbes",
+        "team": "Williams",
+        "lapTime": "1:22.042",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "qatar_mouotnshoot_2",
+        "name": "Qatar Setup - Dry (R)",
+        "type": "race",
+        "creator": "mouotnshoot",
+        "team": "Williams",
+        "lapTime": "1:22.059",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "qatar_gdunks_3",
+        "name": "Qatar Setup - Dry",
+        "type": "balanced",
+        "creator": "gdunks",
+        "team": "McLaren",
+        "lapTime": "1:22.132",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "qatar_riku_4",
+        "name": "Qatar Setup - Dry",
+        "type": "balanced",
+        "creator": "Riku",
+        "team": "F1 Custom Team",
+        "lapTime": "1:22.152",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      },
+      {
+        "id": "qatar_raduq_5",
+        "name": "Qatar Setup - Dry",
+        "type": "balanced",
+        "creator": "raduq02",
+        "team": "Red Bull Racing",
+        "lapTime": "1:22.254",
+        "conditions": "dry",
+        "source": "f1laps.com"
+      }
+    ],
+    "Abu Dhabi": []
+  },
+  "instructions": {
+    "howToAdd": "To add a new setup, copy the template below and fill in all values",
+    "template": {
+      "id": "track_creator_number (e.g., australia_yourname_1)",
+      "name": "Setup Name and Conditions",
+      "creator": "Your Name / F1 Laps Username",
+      "team": "Team Name (Aston Martin, Ferrari, McLaren, etc)",
+      "lapTime": "1:15.974",
+      "conditions": "dry or wet",
+      "notes": "Optional notes about the setup",
+      "source": "f1laps.com or manual",
+      "aerodynamics": {
+        "frontWing": "0-35",
+        "rearWing": "0-35"
+      },
+      "suspension": {
+        "frontCamber": "-4.0 to 0.0",
+        "rearCamber": "-4.0 to 0.0",
+        "frontToe": "-0.50 to 0.50",
+        "rearToe": "-0.50 to 0.50",
+        "frontSuspension": "1-100",
+        "rearSuspension": "1-100",
+        "frontAntiRollBar": "1-100",
+        "rearAntiRollBar": "1-100",
+        "frontRideHeight": "1-100",
+        "rearRideHeight": "1-100"
+      },
+      "brakes": {
+        "brakePressure": "0-100",
+        "frontBrakeBias": "0-100"
+      },
+      "tires": {
+        "frontLeftPressure": "19.0-32.0 PSI",
+        "frontRightPressure": "19.0-32.0 PSI",
+        "rearLeftPressure": "19.0-32.0 PSI",
+        "rearRightPressure": "19.0-32.0 PSI"
+      }
+    },
+    "howToUse": [
+      "1. Open f1_setup_manager.html in your browser",
+      "2. Click any track to see saved setups",
+      "3. Click a setup to expand and see full details",
+      "4. To add setups: find them on f1laps.com and add them to this JSON file",
+      "5. The dashboard will automatically load setups from this file"
+    ],
+    "tips": [
+      "Keep a second browser window open while playing for quick reference",
+      "Take screenshots of F1 Laps setups you like and add them to this file",
+      "You can categorize setups as Qualifying (Q) or Race (R) in the name",
+      "Track conditions (wet/dry) help you find the right setup quickly"
+    ]
+  }
+}
